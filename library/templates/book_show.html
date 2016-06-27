@@ -1,0 +1,35 @@
+{% load django_tables2 %}<br><br>
+{% xextends "base.html" with active_tab=books small_panel=true center_panel_content=true %}
+
+{% block content %}
+    <div class="page-title-outer"><div class="page-title">{{ book.title|title }}</div></div>
+    <div class="book_desc">
+
+        Title: {{ book.title }}<br/>
+        {{ book.catagory }}<br/>
+        Lend period: {{ book.lend_period }}<br/>
+
+    <hr>
+    {% autoescape off %}
+    {% render_table books_table "table_without_footer.html" %}
+    {% endautoescape %}
+    <hr>
+
+    </div><br>
+
+    <a href="{% url 'books' %}">List of Components</a><br/><br/>
+
+    {% if request.user.is_staff%}
+        <br/><ul>
+
+    <li><a href="{% url 'edit' 'books' book.id %}">Edit</a> this component</li>
+
+    <li><a href="{% url 'remove' 'books' book.id %}"
+       onclick='return confirm("Do you really want to delete book: {{ book.title }}?")'>Remove
+</a> this component</li>
+
+    </ul>
+    {% else %}
+    {% endif %}
+
+{% endblock %}

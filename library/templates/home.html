@@ -1,0 +1,25 @@
+{% xextends "base.html" with active_tab=home %}
+
+{% block content %}
+    <div class="page-title-outer">
+        <div class="page-title">Welcome: {{ user.username }}</div>
+    </div>
+
+    <div class="options-list" style="margin-top: 100px">
+    <div class="col-md-12">
+            <ul>
+                <li style="font-weight: 800"><a href="{% url 'books' %}" style="font-weight: 800">SEARCH DEVICES</a></li><br>
+                <li style="font-weight: 800"><a href="{% url 'user' request.user.username %}" style="font-weight: 800">MY COMPONENTS</a></li><br>
+                <li style="font-weight: 800"><a href="{% url 'request_show' %}" style="font-weight: 800">MY REQUESTS</a></li><br>
+                {% if request.user.is_staff %}
+                    <li style="font-weight: 800"><a href="{% url 'request_get' %}">APPROVE REQUESTS FROM USERS!</a> </li><br>
+                    <li style="font-weight: 800"><a href="{% url 'return_get' %}">APPROVE RETURNS FROM USERS!</a> </li><br>
+                {% endif %}
+            </ul>
+        </div>
+        <div class="col-md-12">
+            {% include 'user.html' %}
+        </div>
+    </div>
+{% endblock %}
+

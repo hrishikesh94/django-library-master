@@ -1,0 +1,1197 @@
+<method-wrapper 'next' of _csv.reader object at 0x1064e6fa0>
+
+
+
+
+entry number =1
+title =Solenoid Valve (Normally Closed)
+quantity =1
+catagory = Actuator
+ststus =Available
+
+
+entry number =2
+title =Small Stepper Motor - 24BYJ48
+quantity =3
+catagory = Actuator
+ststus =Available
+
+
+entry number =3
+title =MM28 Small Motor 3-6V 9600RPM
+quantity =2
+catagory = Actuator
+ststus =Available
+
+
+entry number =4
+title =Audio Transducer
+quantity =4
+catagory = Actuator
+ststus =Available
+
+
+entry number =5
+title =Micro Servo motor
+quantity =3
+catagory = Actuator
+ststus =Available
+
+
+
+
+entry number =7
+title =Mini Vacuum Pump 6V
+quantity =1
+catagory = Actuator
+ststus =Available
+
+
+entry number =8
+title =Mechanical Timer Switch
+quantity =2
+catagory = Actuator
+ststus =Available
+
+
+entry number =9
+title =Grove Vibration Motor
+quantity =2
+catagory = Actuator
+ststus =Available
+
+
+entry number =10
+title =Mini Vibration Motor
+quantity =2
+catagory = Actuator
+ststus =Available
+
+
+entry number =11
+title =Grove I2C Motor Driver
+quantity =2
+catagory = Actuator
+ststus =Available
+
+
+entry number =12
+title =EasyDriver stepper motor driver V4.4
+quantity =2
+catagory = Actuator
+ststus =Available
+
+
+
+
+entry number =14
+title =Piezo Buzzer
+quantity =4
+catagory = Actuator
+ststus =Available
+
+
+entry number =15
+title =Piezo Buzzer breakout board
+quantity =1
+catagory = Actuator
+ststus =Available
+
+
+entry number =16
+title =Unknown Component in SMD Hall switch packet
+quantity =1
+catagory = Actuator
+ststus =Available
+
+
+entry number =17
+title =Electromagnet
+quantity =1
+catagory = Actuator
+ststus =Available
+
+
+entry number =18
+title =AT Tiny 14 Pin Diip
+quantity =20
+catagory = Components
+ststus =available
+
+
+entry number =19
+title =AT Tiny 8 Pin Diip
+quantity =20
+catagory = Components
+ststus =available
+
+
+entry number =20
+title =4 bit level convertor
+quantity =3
+catagory = Components
+ststus =available
+
+
+entry number =21
+title =AT Tiny 8Pin SMD
+quantity =20
+catagory = Components
+ststus =available
+
+
+entry number =22
+title =AT Tiny 20 Pin SMD
+quantity =21
+catagory = Components
+ststus =available
+
+
+entry number =23
+title ="2N5401 TRANSISTOR
+quantity =PNP
+catagory = Components
+ststus =0.6A
+
+
+entry number =24
+title ="RELAY
+quantity = PCB
+catagory = Components
+ststus = DPCO
+
+
+entry number =25
+title ="OP AMP
+quantity = DUAL IND SPEC
+catagory = Components
+ststus = 2904
+
+
+entry number =26
+title ="LM258NG OP AMP
+quantity = DUAL IND SPEC
+catagory = Components
+ststus = 258
+
+
+entry number =27
+title =ICM7555IPAZ IC TIMER CMOS 7555 DIP8
+quantity =5
+catagory = Components
+ststus =Available
+
+
+entry number =28
+title ="IC
+quantity = COMPARATOR QUAD
+catagory = Components
+ststus = 2901
+
+
+entry number =29
+title ="PCB General Purpose EUROCARD
+quantity =FR2
+catagory = Components
+ststus =spacing 2.54mm
+
+
+entry number =30
+title ="COMPARATOR
+quantity = QUAD
+catagory = Components
+ststus = DIFFERENTIAL
+
+
+entry number =31
+title =starter bundle harness
+quantity =4
+catagory = Components
+ststus =Available
+
+
+entry number =32
+title =TIP127 MOSPEC MEB 8H
+quantity =10
+catagory = Components
+ststus =Available
+
+
+entry number =33
+title =Buck controller
+quantity =2
+catagory = Components
+ststus =Available
+
+
+entry number =34
+title =Photodiode IR Filtered A0601
+quantity =15
+catagory = Components
+ststus =Available
+
+
+entry number =35
+title ="CRYSTAL 16M 18PF CL
+quantity = HC49/4H
+catagory = Components
+ststus = AS-16.000-18"
+
+
+entry number =36
+title =Mini RTC Module
+quantity =2
+catagory = Components
+ststus =Available
+
+
+entry number =37
+title ="OptoCoupler Logic Gate O/P
+quantity = 5.3KV"
+catagory = Components
+ststus =5
+
+
+entry number =38
+title =IR Emitter Radial 5mm 880nm Through Hole
+quantity =9
+catagory = Components
+ststus =Available
+
+
+entry number =39
+title =W1038 External Antenna 2.4Ghz
+quantity =2
+catagory = Connectivity
+ststus =Available
+
+
+entry number =40
+title =Grove RFID reader 125Khz
+quantity =4
+catagory = Connectivity
+ststus =Available
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+entry number =48
+title =RFID book tag 13.56Mhz
+quantity =17
+catagory = Connectivity
+ststus =Available
+
+
+
+
+entry number =50
+title =Grove NFC reader
+quantity =2
+catagory = Connectivity
+ststus =Available
+
+
+
+
+entry number =52
+title =Grove NFC tag
+quantity =2
+catagory = Connectivity
+ststus =Available
+
+
+
+
+
+
+entry number =55
+title =GPS Grove
+quantity =1
+catagory = Connectivity
+ststus =Available
+
+
+
+
+
+
+entry number =58
+title =Node MC ESP8266
+quantity =1
+catagory = Dev Board & Shields
+ststus =available
+
+
+entry number =59
+title =BLE shield 2.1 for Arduino
+quantity =2
+catagory = Dev Board & Shields
+ststus =Available
+
+
+
+
+entry number =61
+title =NFC smart card reader USB
+quantity =2
+catagory = Connectivity
+ststus =Available
+
+
+entry number =62
+title =Grove BLE
+quantity =1
+catagory = Connectivity
+ststus =Available
+
+
+entry number =63
+title =RF 2.4Ghz Transceiver (nRF24L01)
+quantity =6
+catagory = Connectivity
+ststus =Available
+
+
+
+
+
+
+
+
+entry number =67
+title =2KM Long Range RF link kits w/ encoder and decoder
+quantity =2
+catagory = Connectivity
+ststus =Available
+
+
+entry number =68
+title =EMW3162 Wifi Module(External IPEX antenna)
+quantity =4
+catagory = Connectivity
+ststus =Available
+
+
+entry number =69
+title =GalaRing NFC Smart Ring
+quantity =1
+catagory = Connectivity
+ststus =Available
+
+
+entry number =70
+title =MCUSD13A300B09RS Transceiver 300 khz
+quantity =2
+catagory = Connectivity
+ststus =Available
+
+
+entry number =71
+title =MCUSD14A40S09RS Transceiver 40khz
+quantity =2
+catagory = Connectivity
+ststus =Available
+
+
+entry number =72
+title =Grove Universal 4-pin Cables/ branch cables (5 pieces/pack)
+quantity =19
+catagory = Connectors
+ststus =Available
+
+
+entry number =73
+title =Grove 4-pin to female jumper Conversion cables (4 pieces/pack)
+quantity =3
+catagory = Connectors
+ststus =Available
+
+
+entry number =74
+title =Computer AC Power Plug 
+quantity =1
+catagory = Connectors
+ststus =Available
+
+
+entry number =75
+title =MicroUSB Cable
+quantity =4
+catagory = Connectors
+ststus =Available
+
+
+entry number =76
+title ="FC68145P DC SKT
+quantity = DUAL 2.1/2.5MM
+catagory = Connectors
+ststus = PCB
+
+
+entry number =77
+title =9V barrel jack
+quantity =5
+catagory = Connectors
+ststus =Available
+
+
+entry number =78
+title =AC - Bulb Holder
+quantity =2
+catagory = Connectors
+ststus =Available
+
+
+entry number =79
+title ="MODULAR
+quantity = JACK
+catagory = Connectors
+ststus = THT
+
+
+entry number =80
+title =USB  B to RS 232
+quantity =1
+catagory = Connectors
+ststus =
+
+
+entry number =81
+title =USB extender
+quantity =1
+catagory = Connectors
+ststus =
+
+
+entry number =82
+title =DVI to VGA
+quantity =1
+catagory = Connectors
+ststus =
+
+
+entry number =83
+title =RS 232 to Ethernet
+quantity =3
+catagory = Connectors
+ststus =
+
+
+entry number =84
+title =USB to TTL
+quantity =1
+catagory = Connectors
+ststus =
+
+
+entry number =85
+title =USB to USB
+quantity =2
+catagory = Connectors
+ststus =
+
+
+entry number =86
+title ="LEAD
+quantity = HDMI
+catagory = Connectors
+ststus = HIGH SPEED
+
+
+entry number =87
+title ="LEAD
+quantity = CAT 5E
+catagory = Connectors
+ststus = 1M
+
+
+entry number =88
+title ="LEAD
+quantity = 3.5MM S JACK-JACK
+catagory = Connectors
+ststus = 2M AUX Cable"
+
+
+entry number =89
+title ="JUMPER
+quantity = BLACK
+catagory = Connectors
+ststus = AMP MODU
+
+
+entry number =90
+title ="HEADER
+quantity = TOP ENTRY
+catagory = Connectors
+ststus = 3WAY (8 pieces)"
+
+
+entry number =91
+title ="GPIO RIBBON CABLE
+quantity = 26-PIN
+catagory = Connectors
+ststus = RASPBERRY PI"
+
+
+entry number =92
+title ="CONNECTOR
+quantity = RCA
+catagory = Connectors
+ststus = JACK
+
+
+entry number =93
+title ="PiView ADAPTER
+quantity = HDMI TO VGA
+catagory = Connectors
+ststus = FOR RASPBERRY PI"
+
+
+entry number =94
+title =Power jacks 6in1
+quantity =2
+catagory = Connectors
+ststus =Available
+
+
+entry number =95
+title =Arduino shield wireless Proto
+quantity =4
+catagory = Dev Board & Shields
+ststus =Available
+
+
+
+
+entry number =97
+title =Arduino TFT Touch Shield
+quantity =1
+catagory = Dev Board & Shields
+ststus =Available
+
+
+
+
+entry number =99
+title =PiFace Shim RTC
+quantity =1
+catagory = Dev Board & Shields
+ststus =Available
+
+
+entry number =100
+title =PiFace Control and Display 2 
+quantity =1
+catagory = Dev Board & Shields
+ststus =Available
+
+
+entry number =101
+title =USB to Serial Cable
+quantity =1
+catagory = Connectivity
+ststus =Available
+
+
+entry number =102
+title =Odroid HardKernel kit
+quantity =1
+catagory = Dev Board & Shields
+ststus =Available
+
+
+entry number =103
+title ="STARTER KIT
+quantity = WITH TINKERKIT MODULES"
+catagory = Dev Board & Shields
+ststus =1
+
+
+
+
+
+
+entry number =106
+title =PiFace Motor Control EXTRA
+quantity =1
+catagory = Dev Board & Shields
+ststus =Available
+
+
+entry number =107
+title =GrovePi+
+quantity =1
+catagory = Dev Board & Shields
+ststus =Available
+
+
+entry number =108
+title =Arduino NFC shield
+quantity =2
+catagory = Dev Board & Shields
+ststus =Available
+
+
+entry number =109
+title =GERTDUINO 
+quantity =1
+catagory = Dev Board & Shields
+ststus =Available
+
+
+entry number =110
+title ="ENCLOSURE
+quantity = WHITE
+catagory = Dev Board & Shields
+ststus = RPI 2 MODEL B / B+"
+
+
+entry number =111
+title ="ENCLOSURE
+quantity = BLACK
+catagory = Dev Board & Shields
+ststus = RPI 2 MODEL B / B+"
+
+
+entry number =112
+title =CC3200-LAUNCHXL
+quantity =1
+catagory = Dev Board & Shields
+ststus =Available
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+entry number =119
+title ="ASSEMBLED GERTBOARD
+quantity = FOR RASPBERRY PI"
+catagory = Dev Board & Shields
+ststus =1
+
+
+entry number =120
+title =LinkIt ONE
+quantity =1
+catagory = Dev Board & Shields
+ststus =Available
+
+
+entry number =121
+title =Arduino Energy shield 
+quantity =2
+catagory = Dev Board & Shields
+ststus =Available
+
+
+entry number =122
+title =Grove Starter Kit for Arduino (components missing)
+quantity =2
+catagory = Dev Board & Shields
+ststus =Available
+
+
+
+
+
+
+entry number =125
+title =Canbus shield for Ard
+quantity =1
+catagory = Dev Board & Shields
+ststus =Available
+
+
+
+
+entry number =127
+title =Arduino Seeed studio Motor Shield 2.0
+quantity =2
+catagory = Dev Board & Shields
+ststus =Available
+
+
+entry number =128
+title =Alamode- Arduino Compatible
+quantity =1
+catagory = Dev Board & Shields
+ststus =Available
+
+
+entry number =129
+title =Arduino Motor Shield
+quantity =1
+catagory = Dev Board & Shields
+ststus =Available
+
+
+entry number =130
+title =LinkIt Connect 7681 - Wi-Fi HDK for IoT
+quantity =2
+catagory = Dev Board & Shields
+ststus =Available
+
+
+
+
+
+
+entry number =133
+title =QI Wireless Charging Module Kit 5V/1A
+quantity =2
+catagory = Power Supply
+ststus =Available
+
+
+entry number =134
+title =5V 10A SMPS/Adapter
+quantity =1
+catagory = Power supply
+ststus =Available
+
+
+entry number =135
+title =12V 5A SMPS/Adapter
+quantity =1
+catagory = Power supply
+ststus =Available
+
+
+entry number =136
+title =Lipo rider Pro charger
+quantity =2
+catagory = Power Supply
+ststus =Available
+
+
+entry number =137
+title =1W solar panel
+quantity =2
+catagory = Power Supply
+ststus =Available
+
+
+entry number =138
+title =12V DC Adapter
+quantity =1
+catagory = Power Supply
+ststus =
+
+
+entry number =139
+title =CPU power cable
+quantity =3
+catagory = Power Supply
+ststus =
+
+
+entry number =140
+title =0.5W solar panel
+quantity =2
+catagory = Power Supply
+ststus =Available
+
+
+entry number =141
+title =3W Solar panel
+quantity =2
+catagory = Power Supply
+ststus =Available
+
+
+
+
+entry number =143
+title =AA Battery Holder Plastic (4X)
+quantity =2
+catagory = Power Supply
+ststus =Available
+
+
+entry number =144
+title =AAA Battery holder Plastic (2X)
+quantity =6
+catagory = Power Supply
+ststus =Available
+
+
+entry number =145
+title =Holder Battery 2 Cell 20mm
+quantity =4
+catagory = Power Supply
+ststus =Available
+
+
+entry number =146
+title =A1121LUA-T Hall effect sensor
+quantity =4
+catagory = Sensors
+ststus =Available
+
+
+entry number =147
+title =Temperature Sensors (DS18B20)
+quantity =5
+catagory = Sensors
+ststus =Available
+
+
+entry number =148
+title =One wire Temperature Sensor
+quantity =1
+catagory = Sensors
+ststus =Available
+
+
+entry number =149
+title =Temperature Sensors (LM75BIM)(9-Bit)
+quantity =5
+catagory = Sensors
+ststus =Available
+
+
+entry number =150
+title =Temperature Sensors (LM35CAZ)
+quantity =5
+catagory = Sensors
+ststus =Available
+
+
+entry number =151
+title =Grove Temperature Sensor v1.2
+quantity =1
+catagory = Sensors
+ststus =Available
+
+
+
+
+
+
+
+
+entry number =155
+title =Rotary Hall position Sensor
+quantity =1
+catagory = Sensors
+ststus =Available
+
+
+entry number =156
+title =Position Sensor Multiturn 42mm. 10/
+quantity =1
+catagory = Sensors
+ststus =Available
+
+
+entry number =157
+title =Pressure sensor 5PSI
+quantity =4
+catagory = Sensors
+ststus =Available
+
+
+entry number =158
+title =Pressure sensor 30PSI
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =159
+title =Microphone
+quantity =5
+catagory = Sensors
+ststus =Available
+
+
+entry number =160
+title =TSSP4038 IR Sensors
+quantity =20
+catagory = Sensors
+ststus =Available
+
+
+entry number =161
+title =HIH8120-021-001 Humidity Sensor
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =162
+title =Current Sensor 50A
+quantity =4
+catagory = Sensors
+ststus =Available
+
+
+entry number =163
+title =UV Grove
+quantity =3
+catagory = Sensors
+ststus =Available
+
+
+
+
+entry number =165
+title =Finger print - Grove
+quantity =1
+catagory = Sensors
+ststus =Available
+
+
+entry number =166
+title =Grove - Flame Sensor
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =167
+title =Collision - Grove
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =168
+title =Infrared Proximity Sensor - Grove
+quantity =1
+catagory = Sensors
+ststus =Available
+
+
+entry number =169
+title =Grove - Infrared Receiver
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =170
+title =Grove - Infrared Reflective Sensor
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =171
+title =Grove - Barometer
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =172
+title =2.2 Inch Bend Sensor - A201/ Flex Sensor
+quantity =1
+catagory = Sensors
+ststus =Available
+
+
+entry number =173
+title =Magnetic switch - grove
+quantity =4
+catagory = Sensors
+ststus =Available
+
+
+entry number =174
+title =Load Cell - 20KG
+quantity =4
+catagory = Sensors
+ststus =Available
+
+
+entry number =175
+title =Load Cell - 50KG
+quantity =4
+catagory = Sensors
+ststus =Available
+
+
+
+
+
+
+
+
+
+
+entry number =180
+title =Dust Sensor
+quantity =3
+catagory = Sensors
+ststus =Available
+
+
+entry number =181
+title =Gas MQ2
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =182
+title =Grove Air quality
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =183
+title =Alcohol
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =184
+title =Water Sensor
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =185
+title =I2C Color Sensor
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =186
+title =Loudness Sensor
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+
+
+entry number =188
+title =Grove Light Sensor
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =189
+title =EasyVR- multi-purpose speech recognition module
+quantity =1
+catagory = Sensors
+ststus =Available
+
+
+entry number =190
+title =pressure sensor (Range un-identifiable)
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =191
+title =Grove Encoder
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =192
+title =ASLS5 Acceleration Switch Liinear
+quantity =4
+catagory = Sensors
+ststus =Available
+
+
+entry number =193
+title =Grove Line Finder/ Line Sensor
+quantity =1
+catagory = Sensors
+ststus =Available
+
+
+entry number =194
+title =Grove Thumb Joystick
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =195
+title =FS-10 Flow Switch 15mm 0.5L/MIN
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =196
+title =Flow Switch  1L/MIN 10 BAR
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =197
+title =Grove Tilt Switch
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =198
+title =Touch - grove
+quantity =3
+catagory = Sensors
+ststus =Available
+
+
+entry number =199
+title =Grove - Infrared Emitter
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =200
+title =Grove - Infrared Emitter
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =201
+title =Silicon Lab Samples SMD Optical Proximity Sensor Si1102-A-GMR
+quantity =2
+catagory = Sensors
+ststus =Available
+
+
+entry number =202
+title =Silicon Lab Samples SMD Optical Proximity Sensor Si1102-A-GMR
+quantity =2
+catagory = Sensors
+ststus =A

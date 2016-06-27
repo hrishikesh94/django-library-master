@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% block content %}
+    <h1> RETURNS FOR APPROVAL</h1> <br>
+    <div class="col-md-10">
+    <ul>
+    {% for entry in request_list %}
+        <li> User: <b>{{ entry.user }}</b> has placed an order for <b>{{ entry.component}}</b> at <b>{{ entry.time }}</b>
+            {% if request.user.is_staff %}<br>
+        click here to  <br><b><a href="/books/return/{{ entry.id }}/">Approve the REQUEST!</a> </b>
+            {% endif %}
+        <br>
+        </li>
+    {% endfor %}
+    </ul>
+    </div>
+
+{% endblock %}

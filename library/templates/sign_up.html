@@ -1,0 +1,25 @@
+{% xextends "base.html" with vcenter_panel=true small_panel=true active_tab=sign_up %}
+
+{% block content %}
+
+
+        <form class="form-signin" role="form" action="{% url 'sign_up' %}" method="POST">{% csrf_token %}
+            <h2 class="form-signin-heading">Please sign up</h2>
+            {% autoescape off %}
+                {% for field in user_form %}
+
+                {% if field.errors %}<br/>
+                <span class="red">{{ field.errors.as_text }} </span>
+                <br/>{% endif %}
+
+                {{ field }}
+                {% endfor %}
+            {% endautoescape %}
+            <button class="btn btn-primary btn-block" type="submit">Sign up</button>
+        </form>
+
+
+
+
+
+{% endblock %}

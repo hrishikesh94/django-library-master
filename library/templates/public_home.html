@@ -1,0 +1,37 @@
+{% xextends "base.html" with active_tab=home %}
+{% block include %}
+    <link rel="stylesheet/less" href="{{ STATIC_URL }}css/public_home.less">
+    {# comment #}
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    {# endcomment #}
+{% endblock %}
+{% block include_footer %}
+    <script src="{{ STATIC_URL }}js/public_home.js"></script>
+{% endblock %}
+{% block site %}
+    <div class ="topinfo col-md-12">
+        <div>
+            <br><br>
+            <div class="col-md-7" style="align-self: center">
+                <h1 style="text-align: center">Welcome, Sign in or register to access the inventory</h1>
+            </div>
+            <br>
+            <br>
+            <div class="col-md-5" style="align-self: center">
+                <form action="/sign_up" style="margin-bottom: 50px">
+                    <input type="submit" class="btn btn-lg btn-primary btn-block" value="sign up">
+                </form>
+                <form action="/sign_in">
+                    <input type="submit" class="btn btn-lg btn-primary btn-block" value="sign in">
+                </form>
+            </div>
+        </div>
+
+    </div>
+<div class="landing-background">
+</div>
+{% endblock %}

@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block content %}
+    <div class="col-md-10">
+    <ul>
+    {% for entry in request_list %}
+        <li> User: <b>{{ entry.user }}</b> has placed an order for <b>{{ entry.component}}</b> at <b>{{ entry.time }}</b>
+            {% if request.user.is_staff %}<br>
+        click here to  <br><b><a href="/books/borrow/{{ entry.id }}/">Approve the REQUEST!</a> </b>
+            {% endif %}
+        <br>
+             <b><a href="/books/request/delete/{{ entry.id }}/"> cancel the REQUEST!</a> </b>
+
+        <br>
+        <br>
+        </li>
+    {% endfor %}
+    </ul>
+    </div>
+
+{% endblock %}

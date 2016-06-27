@@ -1,0 +1,41 @@
+{% load django_tables2 %}
+{% xextends "base.html" %}
+{% block content %}
+    <div class="page-title-outer">
+        <div class="page-title">
+            {{ user.username }}{% if not other_user %},<a href="{% url 'useredit' %}">edit </a>your profile!{% endif %}
+        </div>
+    </div>
+    <div class="user_desc">
+        Username: {{ this_user.username }}
+        <br/>
+        {% if not other_user %}
+            Do you want to <a href="{% url 'change_password' %}">change password?</a>
+        {% endif %}
+    </div>
+    {% if books_qs %}
+        <br><br>
+        {% if not other_user %}Your{% else %}His/Her{% endif %} Components:
+        {% autoescape off %}
+        {% render_table books_table "table_without_footer.html" %}
+        {% endautoescape %}
+        {% else %}
+        {% endif %}
+        {% if not other_user and request.user.is_staff %}
+            <hr>
+            <div class="page-title-outer">
+                <div class="page-title">
+                    Admin dashboard
+                </div>
+            </div>
+            <p>
+            <ul class="optons-list">
+                <li>Add <a href="{% url 'new' 'catagories' %}">new catagory</a> | Search<a href="{% url 'publishers' %}"> Catagories</a></li>
+                <li>Add
+                    <a href="{% url 'new' 'device' %}">new devices</a></li>
+            </ul>
+            </p>
+        {% else %}
+        {% endif %}
+
+        {% endblock %}
